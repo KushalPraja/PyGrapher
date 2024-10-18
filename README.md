@@ -1,7 +1,5 @@
 
-# Math Canvas 
-
-
+![logo](Logo.png)
 ## Description:
 This project is a graphical tracer application that allows you to draw and visualize various mathematical functions, including parabolas, lines, and cubic curves. It provides a user-friendly interface for adjusting parameters and displays the equations of the curves on the screen.
 
